@@ -2,7 +2,6 @@ from time import sleep
 import Farmer
 import Lumberjack
 import Miner
-import Villager
 
 
 #####
